@@ -1,0 +1,2 @@
+Welcome to Git Hands-on Lab using Eclipse!
+Initial commit: added welcome.txt
